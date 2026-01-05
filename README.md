@@ -1,3 +1,3 @@
 # Trip-Planner
-# Hi
-Let's go
+Hi.Let's go
+
